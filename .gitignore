@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+myenv/
+
+# Node
+node_modules/
+
+# Uploads & videos
+uploads/
+*.mp4
+*.avi
+
+# System files
+.DS_Store
