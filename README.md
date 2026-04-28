@@ -14,7 +14,7 @@ The Smart Adaptive Traffic Management System leverages AI and computer vision to
 
 ## ✨ Features
 - Vehicle Detection: Uses YOLOv4 for real-time vehicle detection from video feeds.
-- Traffic Optimization: Employs a genetic algorithm to determine optimal green light times based on vehicle counts.
+- Traffic Optimization: Employs a Reinforcement Learning to determine optimal green light times based on vehicle counts.
 - Web Interface: Allows users to upload traffic videos, view processing results, and receive optimized traffic management recommendations.
 
 ## 🚀 Getting Started
