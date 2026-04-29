@@ -55,7 +55,7 @@ function App() {
           <span className="logo-dot"></span>
           <span className="logo-text">TrafficAI</span>
         </div>
-        <div className="nav-badge">YOLOv4 + Genetic Algorithm</div>
+        <div className="nav-badge">YOLOv4 + Reinforcement Learning</div>
       </nav>
 
       {/* Hero */}
@@ -72,7 +72,7 @@ function App() {
         <div className="hero-stats">
           <div className="stat"><span>YOLOv4</span><small>Detection</small></div>
           <div className="stat-divider"></div>
-          <div className="stat"><span>Genetic Algo</span><small>Optimization</small></div>
+          <div className="stat"><span>Reinf. Learning</span><small>Optimization</small></div>
           <div className="stat-divider"></div>
           <div className="stat"><span>4-Lane</span><small>Intersection</small></div>
         </div>
@@ -219,7 +219,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>AI-Based Traffic Management System &nbsp;·&nbsp; YOLOv4 &nbsp;·&nbsp; Genetic Algorithm &nbsp;·&nbsp; OpenCV</p>
+        <p>AI-Based Traffic Management System &nbsp;·&nbsp; YOLOv4 &nbsp;·&nbsp; Reinforcement Learning &nbsp;·&nbsp; OpenCV</p>
       </footer>
     </div>
   );
